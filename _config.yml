@@ -1,0 +1,53 @@
+# Site settings
+title: dquinteros
+email: daniel.quinterosc@usach.cl
+url: https://dquinteros.cl
+description: "Ingeniero civil informático"
+skills: "Web Developer - Computer vision - Mobile Apps Developer"
+meta_author: Quinteros Daniel
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 049bdf #18bc9c #80B3FF
+  primary-rgb: "4,155,223" #"24,288,156" #"128,179,255"
+  secondary: 023859 #2c3e50 #FD6E8A
+  secondary-dark: 011826 #233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Daniel Quinteros
+  location: Ubicación
+  social: Redes
+  credits: Creditos
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://cl.linkedin.com/in/dquinterosc
+  - title: github
+    url: http://github.com/dquinteros
+  - title: twitter
+    url: http://twitter.com/dquinterosc
+  - title: facebook
+    url: https://www.facebook.com/dquinterosc
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: San Pedro de la Paz 
+  - line: Concepción
+
+# Credits content
+credits: 'Sitio desarrollado por dquinteros powered by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
