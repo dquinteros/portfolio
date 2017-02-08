@@ -22,6 +22,9 @@ color:
   secondary: 023859 #2c3e50 #FD6E8A
   secondary-dark: 011826 #233140 #A2122F
 
+bkg_img:
+  header: img/backgroundStock.png
+
 # Footer settings
 footer:
   copyright: Daniel Quinteros
