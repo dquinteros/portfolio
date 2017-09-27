@@ -1,8 +1,11 @@
+ ---
+ ---
 /*!
  * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+
 
 body {
     overflow-x: hidden;
@@ -82,9 +85,9 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background-image: url({{ site.bkg_img.header }}) ! important; 
-    background-size: cover;
-    
+    background-image: url({{ site.data.img.header }}); 
+    background-position: center top;
+    background-size: cover;  
 }
 
 header .container {
