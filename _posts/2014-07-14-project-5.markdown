@@ -6,7 +6,7 @@ date: 2017-09-13
 img: votamoscl.png
 alt: ss votamoscl
 project-date: Septiembre 2017
-client: Disecom
+client: Votamos.cl
 client-url: http://www.votamos.cl/
 category: Desarrollo Web, Node.js, Loopback, Javascript.
 description: App para la realización de votaciones sobre temas de contingencia y demandas populares.  
